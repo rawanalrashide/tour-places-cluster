@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/react-app":{"type":"virtualbox","guestpath":"/var/www/react-app","hostpath":"C:/Users/rawan/tour-places-cluster/frontend/build","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/rawan/tour-places-cluster","disabled":false,"__vagrantfile":true}}}
